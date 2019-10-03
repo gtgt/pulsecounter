@@ -1,0 +1,6 @@
+.tmp_versions
+.pulsecounter.*
+Module.symvers
+pulsecounter.mod.*
+pulsecounter.ko
+modules.order
